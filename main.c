@@ -3,9 +3,6 @@
 #include "util.h"
 #include "inventario.h"
 
-// gcc main.c inventario.c util.c -o programa
-// ./programa
-
 int main(){
     int opcao;
     int qtd_opcao;
